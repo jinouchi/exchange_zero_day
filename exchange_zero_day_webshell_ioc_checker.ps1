@@ -4,7 +4,7 @@
 # Version 1.0 
 # Date: 5 March 2021
 
-# This scrpipt will check for the existence of web shells which have been found on compromised systems
+# This script will check for the existence of web shells which have been found on compromised systems
 # as a result of the March 2021 Microsoft Exchange Zero-day Exploits
 
 # Define web shell filenames
